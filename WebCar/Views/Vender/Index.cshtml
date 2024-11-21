@@ -1,0 +1,57 @@
+﻿@{
+    Layout = null;
+}
+@model VendasModel
+
+<link rel="shortcut icon" href="~/carro-de-brinquedo.ico" />
+<link rel="stylesheet" href="~/css/vendas.css" asp-append-version="true" />
+<body>
+    <div class="box">
+        <div class="img-box">
+            <img src="img-formulario.png">
+        </div>
+        <div class="form-box">
+            <h2>Venda seu Carro</h2>
+            <form asp-controller="Vender" asp-action="Anunciar" method="post">
+                <div class="input-group">
+                    <label for="nomeCarro"> Nome Completo do Carro</label>
+                    <input type="text" asp-for="NomeCarro" id="nome" placeholder="Digite o seu nome completo do carro" required>
+                    
+                </div>
+
+                <div class="input-group">
+                    <label for="km">Km´s rodados</label>
+                    <input type="text" asp-for="Km" id="text" placeholder="Informe quando km´s rodados possui seu carro" required>
+                    
+                </div> 
+                
+                <div class="input-group w50">
+                    <label for="Ano">Ano do Carro</label>
+                    <input type="text" asp-for="AnoCarro" id="ano" placeholder="Digite o Ano do Carro" required>
+                    
+                </div>
+
+                <div class="input-group w50">
+                    <label for="Localizacao">Localização</label>
+                    <input type="text" asp-for="Localizacao" id="localizacao" placeholder="Digite a localização e UF" required>
+                    
+                </div>
+
+                <div class="input-group">
+                    <label for="Valor">Qual valor seria apropriado para vendas com base na tabela?</label>
+                    <input type="text" asp-for="ValorVenda" id="ValorCarro" placeholder="R$" required>
+                </div>
+                <label class="picture" for="picture__input" tabindex="o">
+                    <span class="picture__image">Escolha uma imagem</span>
+                </label>
+
+                <input type="file" accept="image/*" input type="text" asp-for="ValorVenda" id="picture__input" />
+
+                <div class="input-group">
+                    <button type="submit" >Anunciar</button>
+                </div>
+
+            </form>       
+        </div>
+    </div>
+</body>

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\models\\vendasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\models\\vendasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\controllers\\wbmotors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\controllers\\wbmotors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\models\\cadastromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\models\\cadastromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\views\\wbmotors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\views\\wbmotors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\views\\vender\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\views\\vender\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\controllers\\vendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\controllers\\vendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\views\\formulariocadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\views\\formulariocadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\wwwroot\\js\\app..js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\wwwroot\\js\\app..js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|c:\\users\\alvar\\onedrive\\documentos\\webcar\\webcar\\wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DFFF979B-2270-49B8-839C-548B850EF990}|WebCar\\WebCar.csproj|solutionrelative:webcar\\wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WbMotors.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Controllers\\WbMotors.cs",
+              "RelativeDocumentMoniker": "WebCar\\Controllers\\WbMotors.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Controllers\\WbMotors.cs",
+              "RelativeToolTip": "WebCar\\Controllers\\WbMotors.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:43:39.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendasModel.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Models\\VendasModel.cs",
+              "RelativeDocumentMoniker": "WebCar\\Models\\VendasModel.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Models\\VendasModel.cs",
+              "RelativeToolTip": "WebCar\\Models\\VendasModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:37:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VenderController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Controllers\\VenderController.cs",
+              "RelativeDocumentMoniker": "WebCar\\Controllers\\VenderController.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Controllers\\VenderController.cs",
+              "RelativeToolTip": "WebCar\\Controllers\\VenderController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAABBwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:26:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app..js",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\js\\app..js",
+              "RelativeDocumentMoniker": "WebCar\\wwwroot\\js\\app..js",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\js\\app..js",
+              "RelativeToolTip": "WebCar\\wwwroot\\js\\app..js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T01:44:09.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WebCar\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WebCar\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAANwAAAAAAAAAAABBwOwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T01:33:51.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\FormularioCadastro\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCar\\Views\\FormularioCadastro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\FormularioCadastro\\Index.cshtml",
+              "RelativeToolTip": "WebCar\\Views\\FormularioCadastro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T03:58:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebCar\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebCar\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T03:52:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\WbMotors\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCar\\Views\\WbMotors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\WbMotors\\Index.cshtml",
+              "RelativeToolTip": "WebCar\\Views\\WbMotors\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T03:48:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebCar\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebCar\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T03:00:55.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\Vender\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCar\\Views\\Vender\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Views\\Vender\\Index.cshtml",
+              "RelativeToolTip": "WebCar\\Views\\Vender\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T02:43:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "form.css",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\form.css",
+              "RelativeDocumentMoniker": "WebCar\\wwwroot\\css\\form.css",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\wwwroot\\css\\form.css",
+              "RelativeToolTip": "WebCar\\wwwroot\\css\\form.css",
+              "ViewState": "AgIAADgAAAAAAAAAAABBwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T02:40:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroModel.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Models\\CadastroModel.cs",
+              "RelativeDocumentMoniker": "WebCar\\Models\\CadastroModel.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\Models\\CadastroModel.cs",
+              "RelativeToolTip": "WebCar\\Models\\CadastroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:19:15.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
