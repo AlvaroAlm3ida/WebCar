@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b706ce24a2b0dc1e4f1124e896c7e261205e70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77eceeca6eb671a5f9872d341bde53753dd26874")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

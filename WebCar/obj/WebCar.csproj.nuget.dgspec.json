@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\WebCar.csproj": {}
+    "D:\\Git-Desktop\\WebCar\\WebCar\\WebCar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\WebCar.csproj": {
+    "D:\\Git-Desktop\\WebCar\\WebCar\\WebCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\WebCar.csproj",
+        "projectUniqueName": "D:\\Git-Desktop\\WebCar\\WebCar\\WebCar.csproj",
         "projectName": "WebCar",
-        "projectPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\WebCar.csproj",
+        "projectPath": "D:\\Git-Desktop\\WebCar\\WebCar\\WebCar.csproj",
         "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\WebCar\\WebCar\\obj\\",
+        "outputPath": "D:\\Git-Desktop\\WebCar\\WebCar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
